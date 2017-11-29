@@ -1,0 +1,23 @@
+{
+  "name": "twatter",
+  "version": "1.0.0",
+  "description": "server to server grant flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PIZZAKNIFE/twatter.git"
+  },
+  "author": "Brandt Solovij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PIZZAKNIFE/twatter/issues"
+  },
+  "homepage": "https://github.com/PIZZAKNIFE/twatter#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
